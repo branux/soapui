@@ -1,6 +1,7 @@
 # SOAP UI - Configuração e uso
 
-  Vamos explicar como acessar o InfoConv utilizando a ferramenta [SoapUI].
+  Este repositório contém os projetos de exemplo de consumo dos webservices do InfoConv utilizando o [SoapUI](https://www.soapui.org/).
+  
 
 ### Instalar o SOAP UI
 
